@@ -111,9 +111,7 @@ Using the STAR technique allowed me to reflect deeply on how each activity contr
 Let’s Connect
 
 If you’re looking for a passionate junior developer with a strong foundation in Java, Spring Boot, and React,
-let’s connect on LinkedIn 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/bukhobenkosi-mbinda-a3b566210/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/bukhobenkosi-mbinda-a3b566210/)
 
 
 I’m eager to contribute to meaningful projects, learn from experienced professionals, and continue developing my technical and professional skills.
