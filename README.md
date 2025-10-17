@@ -5,7 +5,7 @@ BUSINESS COMMUNICATION
 
 Evidence
 
-[Business Communication Module] (./Business Communication.png)
+![Business Communication Module](./Business Communucation.png)
 
 Reflection (STAR Technique)
 
@@ -25,7 +25,7 @@ INTERVIEW SKILLS
 
 Evidence
 
-[Interview Skills Module] (./Interview Skills.png)
+[Interview Skills Module](./Interview Skills.png)
 
 Reflection (STAR Technique)
 
