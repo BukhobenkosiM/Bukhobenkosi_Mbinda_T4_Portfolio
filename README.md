@@ -44,6 +44,7 @@ I developed confidence in answering behavioral and situational questions effecti
 MOCK INTERVIEW
 
 Evidence
+
 [Mock Interview Video](./221143017_MockInterviewVideo.mp4)
 
 Reflection (STAR Technique)
@@ -85,6 +86,7 @@ WORKPLACE ETIQUETTE
 Evidence
 
 [Workplace Etiquette Module](./Workplace_Ettiquette.png)
+
 Reflection (STAR Technique)
 
 Situation:
@@ -110,5 +112,8 @@ Let’s Connect
 
 If you’re looking for a passionate junior developer with a strong foundation in Java, Spring Boot, and React,
 let’s connect on LinkedIn 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/bukhobenkosi-mbinda-a3b566210/)
+
 
 I’m eager to contribute to meaningful projects, learn from experienced professionals, and continue developing my technical and professional skills.
