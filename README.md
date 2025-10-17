@@ -5,7 +5,7 @@ BUSINESS COMMUNICATION
 
 Evidence
 
-![Business Communication Module](./Business Communucation.png)
+![Business Communication Module](./images/Business Communucation.png)
 
 Reflection (STAR Technique)
 
