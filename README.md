@@ -5,7 +5,7 @@ BUSINESS COMMUNICATION
 
 Evidence
 
-Business Communication Module (./Business Communication.png)
+[Business Communication Module] (./Business Communication.png)
 
 Reflection (STAR Technique)
 
@@ -25,7 +25,7 @@ INTERVIEW SKILLS
 
 Evidence
 
-Interview Skills Module (./Interview Skills.png)
+[Interview Skills Module] (./Interview Skills.png)
 
 Reflection (STAR Technique)
 
@@ -44,7 +44,7 @@ I developed confidence in answering behavioral and situational questions effecti
 MOCK INTERVIEW
 
 Evidence
-Mock Interview Video (./221143017_MockInterviewVideo.mp4)
+[Mock Interview Video] (./221143017_MockInterviewVideo.mp4)
 
 Reflection (STAR Technique)
 
@@ -64,7 +64,7 @@ PROFESSIONAL NETWORKING
 
 Evidence
 
-Professional Networking Module (./Professional Networking.png)
+[Professional Networking Module] (./Professional Networking.png)
 
 Reflection (STAR Technique)
 
@@ -80,10 +80,10 @@ I completed the online module and quiz, learning about the purpose of networking
 Result:
 I now understand that networking is not just about meeting people but about forming mutually beneficial professional relationships. My professional online presence has improved, and I’ve begun engaging in discussions that enhance my visibility and learning in the tech community.
 
-5️⃣ WORKPLACE ETIQUETTE
+WORKPLACE ETIQUETTE
 Evidence
 
-Workplace Ettiquette Module (./Workplace Ettiquete.png)
+[Workplace Ettiquette Module] (./Workplace Ettiquete.png)
 Reflection (STAR Technique)
 
 Situation:
